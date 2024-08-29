@@ -67,4 +67,3 @@ else:
     print(list4[3]==list4[0]+list4[1]+list4[2])
 
 
-
